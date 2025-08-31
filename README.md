@@ -31,3 +31,6 @@ Quantitative investment fund analysis focused on education and media sectors usi
 - **Monte Carlo Profit Probability**: 53.5%
 
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/ff850e3e-5495-44ee-89bc-1e721a0f9d42" />
+
+## AI use
+Claude was used to debug my code. 
